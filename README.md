@@ -1,1 +1,1 @@
-# Fake news detection using Machine Learning
+# Fake News detection using Machine Learning
